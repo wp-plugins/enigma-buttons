@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: chemiker
 Donate link: https://flattr.com/profile/chemiker
-Tags: button, post, page, font awesome, icon
+Tags: button, post, page, font awesome, icon, shortcode, buttons, icons
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0.0
