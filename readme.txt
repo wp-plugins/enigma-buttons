@@ -53,6 +53,7 @@ For instance: If you want to use the GitHub icon you would search for that icon 
 
 = Colors =
 The following colors are avaible:
+
 * green
 * orange
 * purple
